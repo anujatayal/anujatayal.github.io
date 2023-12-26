@@ -8,6 +8,6 @@ category: work
 related_publications: 
 ---
 
-Explored bias in educational data by modeling bachelor's degree attainment. 
-Assessed the utility of bias mitigation techniques to address fairness. 
-Not only did models produce unfair outcomes across various notions of fairness, but bias mitigation techniques also fails to improve fairness across subgroups. 
+Explored bias in educational data by modeling bachelor's degree attainment.   
+Assessed the utility of bias mitigation techniques to address fairness.  
+Not only did models produce unfair outcomes across various notions of fairness, but bias mitigation techniques also fails to improve fairness across subgroups.   

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Document Grounded Dialog Agent
-description: 
+description: Document Grounded Dialog Agent
 img: 
 importance: 1
 category: work
