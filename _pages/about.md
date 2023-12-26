@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. Scholar at University of Illinois, Chicago under the supervision of [Dr. Barbara Di Eugenio]("https://cs.uic.edu/profiles/barbara-di-eugenio/") in the field of Natural Language Processing .
 
-My research interests are to solve various problems using NLP approaches. 
-- Explore Neuro-symbolic approaches for creating dialog systems
-- Create dialog systems for low-resource languages, with few-samples
-- Create healthcare dialog systems for the betterment of people
-- Exploit llms for data-augmentation and creating dialogs
+My research interests include solving various problems using NLP approaches. 
+- Exploring Neuro-symbolic approaches for creating dialog systems
+- Creating dialog systems for low-resource languages, with few-samples
+- Creating healthcare dialog systems for the betterment of people
+- Exploiting LLMs for data-augmentation and creating dialogs
 - Use clarifying questions to create better dialog systems
 
 I am always looking for interesting reasearch based internship opportunities. I always welcome the opportunity to collaborate and discuss my research. Please feel free to reach out to me via email if you're interested.
