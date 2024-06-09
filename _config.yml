@@ -20,7 +20,7 @@ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name
 
 url: https://anujatayal.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -77,10 +77,10 @@ twitter_username: anujatayal
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: anujatayal
 telegram_username: # your Telegram user name
-scholar_userid: L7g8otcAAAAJ
+# scholar_userid: L7g8otcAAAAJ
 semanticscholar_id: Anuja-Tayal
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0009-0002-3631-8195
+# orcid_id: 0009-0002-3631-8195
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -100,7 +100,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: hertrials
+# instagram_id: hertrials
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -193,7 +193,7 @@ latest_posts:
 
 # Markdown and syntax highlight
 markdown: kramdown
-highlighter: rouge
+highlighter: true
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -208,8 +208,19 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - docker-compose.yml
+  - Dockerfile
+  - FAQ.md
   - Gemfile
   - Gemfile.lock
+  - INSTALL.md
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - purgecss.config.js
+  - README.md
   - vendor
 keep_files:
   - CNAME
@@ -292,7 +303,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bibtex.html
+  # details_layout: bibtex.html
   details_link: Details
 
   query: "@*"
@@ -302,6 +313,7 @@ scholar:
 badges: # Display different badges for your publications
   altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
+  google_scholar:   true
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
@@ -309,7 +321,7 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
-
+enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
