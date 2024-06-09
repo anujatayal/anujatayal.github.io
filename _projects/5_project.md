@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inside the Black Box: Detecting and Mitigating Algorithmic Bias across Racialized Groups in College Student-Success Prediction.
+title: Inside the Black Box- Detecting and Mitigating Algorithmic Bias across Racialized Groups in College Student-Success Prediction.
 description: 
 img: 
 importance: 1
