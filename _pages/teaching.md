@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
+
+    Jan-May'25 Mathematical Foundations of Computing
+    
     Jan-May'22 Languages and Automata
 
     Aug-Dec'21 Program Design-II

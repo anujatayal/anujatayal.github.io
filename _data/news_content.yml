@@ -1,0 +1,65 @@
+# News Content Data File
+# This file contains all the news items with dates and content
+# Add new entries here and they will automatically appear on the news page
+#
+# TO ADD NEW NEWS:
+# 1. Add a new entry to the 'news' array below
+# 2. Include: date, content, and year
+# 3. The news page will automatically update!
+#
+# Example:
+# - date: "Jul 17, 2025"
+#   content: "Your new announcement here"
+#   year: 2025
+
+news:
+  - date: "Aug 25-29,2025"
+    content: "Attending the SIGdial'25 Conference in Avignon, France and presenting my paper on <a href='https://github.com/anujatayal/HF-Dataset' target='_blank'>'Towards conversational assistants for health applications: using ChatGPT to generate conversations about heart failure'</a>."
+    year: 2025
+    sort_date: "2025-08-25"
+
+  - date: "July 2025"
+    content: "News article published on <a href='https://today.uic.edu/at-hackathon-uic-creates-ai-innovations-for-health/' target='_blank'>UIC Today</a> about our team's success at the CAIDF Hackathon."
+    year: 2025
+    sort_date: "2025-07-01"
+
+  - date: "Jun 11, 2025"
+    content: "Successfully defended my PhD proposal and officialy a PhD candidate!"
+    year: 2025
+    sort_date: "2025-06-11"
+
+  - date: "May ,2025"
+    content: "Team won <a href='https://www.caidf.org/hackathon-winners' target='_blank'> 2nd place </a> at  CAIDF Hackathon where we Developed Discharge Pathfinder, an LLM tool that streamlines NICU discharge by simplifying medical jargon to support caregivers and improve patient outcomes."
+    year: 2025
+    sort_date: "2025-05-01"
+
+  - date: "May 20, 2024"
+    content: "Attending the LREC-Coling'24 Conference Virtually where my paper <a href='https://github.com/anujatayal/NS-Monitoring-Salt-Content' target='_blank'>'A Neuro-Symbolic Approach to Monitoring Salt Content in Food'</a> was accepted in CL4Health workshop."
+    year: 2024
+    sort_date: "2024-05-20"
+    
+  - date: "May 13, 2024"
+    content: "Attending The Web Conference'24 (WWW) Virtually where my paper 'Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems' was accepted in PromptEng 2024 workshop."
+    year: 2024
+    sort_date: "2024-05-13"
+    
+  - date: "Oct 12, 2023"
+    content: "Poster abstract accepted for the Mitigating AI Risk through Ethical Data Science Workshop at the 2023 AMIA Symposium."
+    year: 2023
+    sort_date: "2023-10-12"
+    
+  - date: "Jun 15 - Aug 21, 2023"
+    content: "Interning as NLP R&D Data Scientist Intern at P&G (Proctor & Gamble), Mason"
+    year: 2023
+    sort_date: "2023-06-15"
+    
+  - date: "Apr 20, 2023"
+    content: "In San Francisco for CRA-WP Grad Cohort for Women"
+    year: 2023
+    sort_date: "2023-04-20"
+    
+  - date: "Jan 20, 2023"
+    content: "Accepted to a three month Google's Computer Science Research Mentorship Program (CSRMP) that matches students with Google mentors and peers to support their pursuit of computer science research pathways."
+    year: 2023
+    sort_date: "2023-01-20"
+  
