@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A showcase of my research projects and technical work in Natural Language Processing
-nav: true
+nav: false
 nav_order: 2
 horizontal: false
 ---
