@@ -21,12 +21,17 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. Scholar at University of Illinois, Chicago under the supervision of <a href='https://cs.uic.edu/profiles/barbara-di-eugenio/' target='_blank'>Dr. Barbara Di Eugenio</a> in the field of Natural Language Processing .
 
+Research Interests: Conversational Systems, Reasoning, Knowledge Graphs, Neuro-Symbolic Systems, and
+Natural Language Processing for Social Good, particularly in Healthcare.
+
 My research interests include solving various problems using NLP approaches. 
 - Exploring conversational architectures that deliver self-care information to African American patients with heart failure.
 - Proposed a neuro-symbolic dialogue system to help heart failure patients monitor salt intake. 
 - Examined different prompting strategies for LLMs to generate synthetic conversations in the absence of patient-oriented self-care dialogues.
 - Conducted a user study with African American Heart Failure patients to understand how they perceive information by asking them to interact with 2 versions of dialog systems.
 - Exploring different ways to combine the strengths of task-oriented dialog systems (TODS) and LMs/LLMs to create a hybrid dialog model.
+- Designing persuasion‑aware dialog strategies to enhance LLM responses.
+
 
 <!-- - Exploring Neuro-symbolic approaches for creating dialog systems
 - Creating dialog systems for low-resource languages, with few-samples
